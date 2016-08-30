@@ -1,2 +1,9 @@
 # learn-git
-Learn Git
+
+```bash
+git clone url
+git add filename
+git commit filename
+git push
+git branch branchname
+```
